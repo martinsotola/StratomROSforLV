@@ -1,0 +1,794 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:39:59 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:40:00 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:40:02 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:41:20 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:41:29 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:41:35 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:41:41 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 702
+Content-Type: text/xml
+Date: Tue, 21 Oct 2008 08:41:48 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1003</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1003 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not executable. Most likely the VI is broken or one of its subVIs cannot be located.  Open the VI in LabVIEW using File>>Open and verify that it is runnable.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 591
+Content-Type: text/xml
+Date: Sat, 20 Dec 2008 21:26:04 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1000</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1000 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not in a state compatible with this operation.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 591
+Content-Type: text/xml
+Date: Sat, 20 Dec 2008 21:26:49 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>1000</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 1000 occurred at Invoke Node in XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The VI is not in a state compatible with this operation.
+
+Method Name: Run VI
+
+VI Path: C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 466
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 08:35:16 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6001</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6001 occurred at Busy
+
+This error code is undefined. No one has provided a description for this code, or you might have wired a number that is not an error code to the error code input.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 518
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 09:09:52 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6101</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6101 occurred at Launch Method.vi
+
+Possible reason(s):
+
+The VI "C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi" is not idle and cannot be started</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 518
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 09:10:17 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6101</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6101 occurred at Launch Method.vi
+
+Possible reason(s):
+
+The VI "C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi" is not idle and cannot be started</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 518
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 09:10:28 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6101</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6101 occurred at Launch Method.vi
+
+Possible reason(s):
+
+The VI "C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi" is not idle and cannot be started</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 518
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 09:14:57 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6101</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6101 occurred at Launch Method.vi
+
+Possible reason(s):
+
+The VI "C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi" is not idle and cannot be started</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 518
+Content-Type: text/xml
+Date: Mon, 22 Dec 2008 09:15:16 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>6101</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 6101 occurred at Launch Method.vi
+
+Possible reason(s):
+
+The VI "C:\Documents and Settings\mesmith\My Documents\LAVA Submissions\XML-RPC\XML-RPC LV8.5\XML-RPC Server\XML-RPC Methods\Generate Sine Wave.vi" is not idle and cannot be started</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:18:27 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:24:34 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:26:31 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 605
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:28:27 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>66</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 66 occurred at TCP Read in TCP Read All.vi:4->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The network connection was closed by the peer. If you are using the Open VI Reference function on a remote VI Server connection, verify that the machine is allowed access by selecting Tools>>Options>>VI Server on the server side.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:30:08 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:30:11 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:33:36 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:34:25 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 07:54:08 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 08:04:27 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 442
+Content-Type: text/xml
+Date: Fri, 28 Jan 2011 08:04:39 GMT
+Server: LabVIEW 8.20/XP
+
+<methodResponse>
+  <fault>
+    <value>
+<struct>
+  <member>
+    <name>faultCode</name>
+     <value><i4>60</i4></value>
+  </member>
+  <member>
+    <name>faultString</name>
+     <value><string>Error 60 occurred at TCP Create Listener in Internecine Avoider.vi->XML-RPC Server.vi
+
+Possible reason(s):
+
+LabVIEW:  The specified network address is currently in use.</string></value>
+  </member>
+</struct>
+    </value>
+  </fault>
+</methodResponse>
+
